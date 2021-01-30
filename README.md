@@ -1,9 +1,8 @@
 # academlo-target
 
-## Demo
-```
-<https://denncriss-quotes.netlify.app/>
-```
+## demo project
+[denncriss-quotes](https://denncriss-quotes.netlify.app/).
+
 ## Project setup
 ```
 npm install
