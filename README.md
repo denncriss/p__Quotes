@@ -2,7 +2,7 @@
 
 ## Demo
 ```
-https://denncriss-quotes.netlify.app/
+<https://denncriss-quotes.netlify.app/>
 ```
 ## Project setup
 ```
